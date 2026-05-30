@@ -10,12 +10,14 @@ An enterprise-grade deep learning framework that predicts implied volatility sur
 
 > **Screenshot — Predicted vs. Actual Implied Volatility Surface**
 
-<!-- Replace the placeholder below with your actual screenshot -->
+<img width="1007" height="816" alt="Screenshot 2026-05-30 184351" src="https://github.com/user-attachments/assets/2f486de0-22d5-433f-ac6e-78861381a841" />
+
 
 
 > **Video Walkthrough**
 
-<!-- Replace the placeholder below with your actual demo video link or embed -->
+<img width="800" height="643" alt="Recording2026-05-30184436-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d019e59c-15f3-4ce6-b50b-79ccc21951f5" />
+
 
 > 
 
